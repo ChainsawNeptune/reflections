@@ -1,0 +1,3 @@
+Q: what happens when you initialize a repository? why do you need to do it?
+A: git init - makes the repo, without it there would be not repo.
+   it makes the .git files that are hiden

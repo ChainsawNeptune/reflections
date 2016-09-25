@@ -1,0 +1,11 @@
+Using diff helps find the difference between 2 files.
+This helps with version control (VC), because you can see the difference.
+
+Q:How did viewing a diff between two versions of a file help you see the bug 
+  that was introduced?
+A:It was easy to find the spelling error.
+
+Q:How can you use the commands git log and git diff to view the history of
+  files?
+A:Using git log brings up all the commits with messages about their changes.
+  Using git diff shows the difference from the 2 commits.
