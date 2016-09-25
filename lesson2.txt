@@ -1,3 +1,8 @@
 Q: what happens when you initialize a repository? why do you need to do it?
 A: git init - makes the repo, without it there would be not repo.
    it makes the .git files that are hiden
+
+Q: How is the staging area different from the working directory and
+   the repository? What value do you think it offers?
+A: The staging area is like an escro - nothing officaialy gets commited 
+   until you specify.
